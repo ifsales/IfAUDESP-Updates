@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0.0",
-    "url":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.0/IfAUDESP_Portable_1.0.0.0.zip",
-    "notes":  "IfAUDESP 1.0.0.0",
-    "sha256":  "044f7a8e0d4abbdc8e1b8f9680ecc1314a74064c0bbdb4e1c9dee2c98f36934d",
-    "installer":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.0/IfAUDESP_Instalador_1.0.0.0.exe"
+    "version":  "1.0.0.2",
+    "url":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.2/IfAUDESP_Portable_1.0.0.2.zip",
+    "notes":  "IfAUDESP 1.0.0.2 - Tela Remuneracao: verbas, folhas ordinaria e suplementar, pagamento e resumo mensal (gerar XML, .dat e enviar; Folha Ordinaria depois do armazenamento das verbas); aposentado/pensionista sem evento proprio nao bloqueia.",
+    "sha256":  "93260909ccf5965e967a32cd205d9ad7af0055b5cfb3833aa9e6f73d6b431ee1",
+    "installer":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.2/IfAUDESP_Instalador_1.0.0.2.exe"
 }
