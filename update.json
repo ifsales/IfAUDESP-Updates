@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0.3",
-    "url":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.3/IfAUDESP_Portable_1.0.0.3.zip",
-    "notes":  "IfAUDESP 1.0.0.3 - Log de diagnostico: falha ou fechamento inesperado apos o login gera IfAUDESP_DIAGNOSTICO.log e IfAUDESP_ERRO_*.log na pasta do programa; erro na abertura da tela principal passa a ser exibido em vez de fechar em silencio; opcao Log de diagnostico no cadastro da empresa (ligada por padrao).",
-    "sha256":  "84307b4e9ce7686e793741644670126fdcb8249e68a310630991963c80e75496",
-    "installer":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.3/IfAUDESP_Instalador_1.0.0.3.exe"
+    "version":  "1.0.0.15",
+    "url":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.15/IfAUDESP_Portable_1.0.0.15.zip",
+    "notes":  "Licenca do IfAUDESP (arquivo, ativacao e validacao online, varios CNPJ por licenca); envio automatico sequencial por dependencias; validacao automatica de dependencias (folha x verbas, cargo/funcao x ato, cadeia do concurso); envio mensal programado (modo sem tela, avisos); telas rapidas.",
+    "sha256":  "ec52b20deb212a3b5425c7544f2b1348de27a0c9aef214d6d8cc325e5cddfe90",
+    "installer":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.15/IfAUDESP_Instalador_1.0.0.15.exe"
 }
