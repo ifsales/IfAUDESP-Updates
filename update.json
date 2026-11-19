@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0.19",
-    "url":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.19/IfAUDESP_Portable_1.0.0.19.zip",
-    "notes":  "Troca automatica da porta do Firebird conforme a ODS da base (2.5 em 3050, 3+/5 em 3051); download de CSVs do Portal AUDESP pergunta e salva a entidade quando o acesso tem mais de uma; instalador/portable com cliente Firebird 5.x.",
-    "sha256":  "b3cf1278ed45353e62c583bb6762f15833c73abc0562496840758238f807df25",
-    "installer":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.19/IfAUDESP_Instalador_1.0.0.19.exe"
+    "version":  "1.0.0.46",
+    "url":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.46/IfAUDESP_Portable_1.0.0.46.zip",
+    "notes":  "Conferencia: Resultado em pilula com balao do motivo em todas as grades (mestre e detalhe); janela Motivo (clique no balao, F2 ou Ver motivo) com os apontamentos em cartoes, dados da linha, detalhe fora de OK e navegacao Anterior/Proxima pendencia. Quadro de Cargos aponta natureza Cargo/Emprego/Comissao, vaga negativa no Quadro SIP e AUDESP, cargo inicial = comissao, cargo atual fora da contagem e cadastro x historico; relatorio AUDESP x SIP casa trabalhadores pelo CPF. Reprocessar a Conferencia apos atualizar.",
+    "sha256":  "162fc0402e71f1dd00d021a91d194f3ae6f77af415e4ae2534f3002673b01e6b",
+    "installer":  "https://github.com/ifsales/IfAUDESP-Updates/releases/download/v1.0.0.46/IfAUDESP_Instalador_1.0.0.46.exe"
 }
